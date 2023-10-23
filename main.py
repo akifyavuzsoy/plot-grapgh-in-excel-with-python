@@ -4,7 +4,7 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 #TODO: Excel okuma butonunu yukarıya sabitle onun yerine çizdirme butonunu koy...
-#TODO: 
+#TODO:
 
 import sys
 
@@ -167,7 +167,6 @@ class ExcelReaderApp(QMainWindow):
             print("111")
             #self.span = SpanSelector(ax, self.onselect(1,3), 'horizontal', useblit=True, rectprops=dict(alpha=0.5, facecolor='red'))
 
-            print("222")
             self.selected_point = None
             ax.legend()
             self.canvas.draw()
