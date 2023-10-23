@@ -4,6 +4,7 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 #TODO: Excel okuma butonunu yukarıya sabitle onun yerine çizdirme butonunu koy...
+#TODO: 
 
 import sys
 
